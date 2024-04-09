@@ -7,7 +7,6 @@
 
 ## *Contents*
 
-- ### [Kotlin 기초]( https://github.com/ichanguk/jpaPractice/tree/main/chapter02 )
+- ### [Kotlin 기초]
 
-  #### 변수, 자료형, NULL, 연산자, 메소드, 제어흐름
-  #### 배열, Collection, Iterable, 반복문, 예외처리
+  #### [CH01.변수](https://github.com/ichanguk/KotlinBase/blob/main/01.%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98.kts)
