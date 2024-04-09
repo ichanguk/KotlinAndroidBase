@@ -10,3 +10,5 @@
 - ### [Kotlin 기초]
 
   #### [CH01.변수](https://github.com/ichanguk/KotlinBase/blob/main/01.%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98.kts)
+  #### [CH02.자료형](https://github.com/ichanguk/KotlinBase/blob/main/02.%EC%9E%90%EB%A3%8C%ED%98%95/%EC%9E%90%EB%A3%8C%ED%98%95.kts)
+  
