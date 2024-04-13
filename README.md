@@ -22,4 +22,5 @@
   #### [CH11.반복문](https://github.com/ichanguk/KotlinBase/tree/main/11.%EB%B0%98%EB%B3%B5%EB%AC%B8)
   #### [CH12.과제](https://github.com/ichanguk/KotlinBase/tree/main/12.%EA%B3%BC%EC%A0%9C)
   #### [CH13.예외처리](https://github.com/ichanguk/KotlinBase/blob/main/13.%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.kts)
+  #### [CH14.출력](https://github.com/ichanguk/KotlinBase/blob/main/14.%EC%B6%9C%EB%A0%A5/%EC%B6%9C%EB%A0%A5.kts)
   
