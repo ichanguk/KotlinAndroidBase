@@ -28,4 +28,5 @@
   #### [CH17.과제](https://github.com/ichanguk/KotlinBase/tree/main/17.%EA%B3%BC%EC%A0%9C)
   #### [CH18.클래스예제](https://github.com/ichanguk/KotlinBase/blob/main/18.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%98%88%EC%A0%9C/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%98%88%EC%A0%9C_%EC%9E%85%EC%B6%9C%EA%B8%88.kts)
   #### [CH19.접근제한자](https://github.com/ichanguk/KotlinBase/blob/main/19.%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90.kts)
+  #### [CH20.상속](https://github.com/ichanguk/KotlinBase/tree/main/20.%EC%83%81%EC%86%8D)
   
