@@ -6,7 +6,7 @@
 - 카카오테크 캠퍼스 Kotlin 기초 학습을 위한 저장소 입니다.
 
 ## *Contents*
-|<div style="background-color:yellow">Kotlin 기초</div>|<div style="background-color:yellow">Kotlin 핵심</div>|
+|Kotlin 기초|Kotlin 핵심|
 |------|-----|
 |[CH01.변수](https://github.com/ichanguk/KotlinBase/blob/main/01.%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98.kts)|[CH14.출력](https://github.com/ichanguk/KotlinBase/blob/main/14.%EC%B6%9C%EB%A0%A5/%EC%B6%9C%EB%A0%A5.kts)|
 |[CH02.자료형](https://github.com/ichanguk/KotlinBase/blob/main/02.%EC%9E%90%EB%A3%8C%ED%98%95/%EC%9E%90%EB%A3%8C%ED%98%95.kts)|[CH15.고차함수&람다](https://github.com/ichanguk/KotlinBase/blob/main/15.%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98_%EB%9E%8C%EB%8B%A4/%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98_%EB%9E%8C%EB%8B%A4.kts)|
