@@ -25,4 +25,5 @@
   #### [CH14.출력](https://github.com/ichanguk/KotlinBase/blob/main/14.%EC%B6%9C%EB%A0%A5/%EC%B6%9C%EB%A0%A5.kts)
   #### [CH15.고차함수&람다](https://github.com/ichanguk/KotlinBase/blob/main/15.%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98_%EB%9E%8C%EB%8B%A4/%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98_%EB%9E%8C%EB%8B%A4.kts)
   #### [CH16.클래스](https://github.com/ichanguk/KotlinBase/tree/main/16.%ED%81%B4%EB%9E%98%EC%8A%A4)
+  #### [CH17.과제](https://github.com/ichanguk/KotlinBase/tree/main/17.%EA%B3%BC%EC%A0%9C)
   
