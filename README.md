@@ -15,7 +15,7 @@
 |[CH05.메소드](https://github.com/ichanguk/KotlinBase/blob/main/05.%EB%A9%94%EC%86%8C%EB%93%9C/%EB%A9%94%EC%86%8C%EB%93%9C.kts)|[CH18.클래스예제](https://github.com/ichanguk/KotlinBase/blob/main/18.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%98%88%EC%A0%9C/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%98%88%EC%A0%9C_%EC%9E%85%EC%B6%9C%EA%B8%88.kts)||
 |[CH06.흐름제어](https://github.com/ichanguk/KotlinBase/blob/main/06.%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.kts)|[CH19.접근제한자](https://github.com/ichanguk/KotlinBase/blob/main/19.%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90.kts)||
 |[CH07.과제](https://github.com/ichanguk/KotlinBase/tree/main/07.%EA%B3%BC%EC%A0%9C)|[CH20.상속](https://github.com/ichanguk/KotlinBase/tree/main/20.%EC%83%81%EC%86%8D)||
-|[CH08.배열](https://github.com/ichanguk/KotlinBase/blob/main/08.%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4.kts)|||
+|[CH08.배열](https://github.com/ichanguk/KotlinBase/blob/main/08.%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4.kts)|[CH21.형변환](https://github.com/ichanguk/KotlinAndroidBase/blob/main/21.%ED%98%95%EB%B3%80%ED%99%98/%ED%98%95%EB%B3%80%ED%99%98.kts)||
 |[CH09.collection](https://github.com/ichanguk/KotlinBase/blob/main/09.collection/collection.kts)|||
 |[CH10.iterable](https://github.com/ichanguk/KotlinBase/blob/main/10.iterable/iterable.kts)|||
 |[CH11.반복문](https://github.com/ichanguk/KotlinBase/tree/main/11.%EB%B0%98%EB%B3%B5%EB%AC%B8)|||
