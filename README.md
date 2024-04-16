@@ -18,7 +18,7 @@
 |[CH08.배열](https://github.com/ichanguk/KotlinBase/blob/main/08.%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4.kts)|[CH21.형변환](https://github.com/ichanguk/KotlinAndroidBase/blob/main/21.%ED%98%95%EB%B3%80%ED%99%98/%ED%98%95%EB%B3%80%ED%99%98.kts)||
 |[CH09.collection](https://github.com/ichanguk/KotlinBase/blob/main/09.collection/collection.kts)|[CH22.NullSafety](https://github.com/ichanguk/KotlinAndroidBase/blob/main/22.NullSafety/nullSafety.kts)||
 |[CH10.iterable](https://github.com/ichanguk/KotlinBase/blob/main/10.iterable/iterable.kts)|[CH23.과제](https://github.com/ichanguk/KotlinAndroidBase/tree/main/23.%EA%B3%BC%EC%A0%9C)||
-|[CH11.반복문](https://github.com/ichanguk/KotlinBase/tree/main/11.%EB%B0%98%EB%B3%B5%EB%AC%B8)|||
+|[CH11.반복문](https://github.com/ichanguk/KotlinBase/tree/main/11.%EB%B0%98%EB%B3%B5%EB%AC%B8)|[CH24.인터페이스](https://github.com/ichanguk/KotlinAndroidBase/blob/main/24.%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.kts)||
 |[CH12.과제](https://github.com/ichanguk/KotlinBase/tree/main/12.%EA%B3%BC%EC%A0%9C)|||
 |[CH13.예외처리](https://github.com/ichanguk/KotlinBase/blob/main/13.%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.kts)|||
 
