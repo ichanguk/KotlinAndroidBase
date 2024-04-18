@@ -22,3 +22,4 @@
 |[CH12.과제](https://github.com/ichanguk/KotlinAndroidBase/tree/main/kotlin/12.%EA%B3%BC%EC%A0%9C)||[CH12.frame layout](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/framelayout.xml)|
 |[CH13.예외처리](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/13.%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.kts)||[CH13.gravity](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/gravity.xml)|
 |||[CH14.scroll view](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/scrollview.xml)|
+|||[CH15.resource](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/resource.xml)|
