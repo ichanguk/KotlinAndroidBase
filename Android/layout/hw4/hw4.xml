@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="236dp"
+            android:layout_height="40dp"
+            android:background="@drawable/page_1"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginTop="220dp"
+            android:layout_marginBottom="130dp"/>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/oval_background_fb"/>
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp">
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.8"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/logo_fb"/>
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.1"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/while_line"/>
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:text="페이스북 계정으로 로그인"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textSize="13sp"
+                    android:layout_weight="10"
+                    android:textColor="@color/white"/>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:layout_marginBottom="10dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/oval_background_ka"/>
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp">
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.4"
+                    android:layout_marginRight="6dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/logo_kt"/>
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.1"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/while_line"/>
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:text="카카오 계정으로 로그인"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textSize="14sp"
+                    android:layout_weight="10"
+                    android:textColor="@color/white"/>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+        </FrameLayout>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:padding="2dp"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="10dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/arrows"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="회원가입 건너뛰고 레시피 확인하기"
+                android:layout_gravity="center"
+                android:gravity="center_vertical"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:textColor="#9A9A9A"/>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/sandwich_bg_1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="50dp"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
