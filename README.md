@@ -6,9 +6,9 @@
 - 카카오테크 캠퍼스 Kotlin 및 Android 기초 학습을 위한 저장소 입니다.
 
 ## *Contents*
-|Kotlin 기초|Kotlin 핵심|Android UI 기초|
-|------|-----|-----|
-|[CH01.변수](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/01.%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98.kts)|[CH14.출력](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/14.%EC%B6%9C%EB%A0%A5/%EC%B6%9C%EB%A0%A5.kts)|[CH01.XML](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_UI/XML.txt)|
+|Kotlin 기초|Kotlin 핵심|Android UI 기초|Android Studio 핵심|
+|------|-----|-----|-----|
+|[CH01.변수](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/01.%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98.kts)|[CH14.출력](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/14.%EC%B6%9C%EB%A0%A5/%EC%B6%9C%EB%A0%A5.kts)|[CH01.XML](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_UI/XML.txt)|[CH01.Activity](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/activity/MainActivity.kt)|
 |[CH02.자료형](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/02.%EC%9E%90%EB%A3%8C%ED%98%95/%EC%9E%90%EB%A3%8C%ED%98%95.kts)|[CH15.고차함수&람다](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/15.%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98_%EB%9E%8C%EB%8B%A4/%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98_%EB%9E%8C%EB%8B%A4.kts)|[CH02.단위](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_UI/%EB%8B%A8%EC%9C%84.txt)|
 |[CH03.Null](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/03.Null/Null.kts)|[CH16.클래스](https://github.com/ichanguk/KotlinAndroidBase/tree/main/kotlin/16.%ED%81%B4%EB%9E%98%EC%8A%A4)|[CH03.view component](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_UI/viewCoponent.txt)|
 |[CH04.연산자](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/04.%EC%97%B0%EC%82%B0%EC%9E%90/%EC%97%B0%EC%82%B0%EC%9E%90.kts)|[CH17.과제](https://github.com/ichanguk/KotlinAndroidBase/tree/main/kotlin/17.%EA%B3%BC%EC%A0%9C)|[CH04.view 속성](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_UI/view%EC%86%8D%EC%84%B1.txt)|
