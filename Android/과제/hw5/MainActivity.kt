@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.hw5)
         binding = Hw5Binding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -120,10 +119,11 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.btnPlus.setOnClickListener {
-            num1 = num.toLong()
-            num = ""
-            binding.inputText.text = ""
-
+            if (num != "") {
+                num1 = num.toLong()
+                num = ""
+                binding.inputText.text = ""
+            }
         }
 
         binding.btnSolve.setOnClickListener {
