@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IntentOneActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/implicitIntent"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="암시적 인텐트"
+        android:background="@color/purple_200"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/intent_one"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/purple_200"
+        android:gravity="center"
+        android:text="명시적 인텐트1"/>
+
+    <TextView
+        android:id="@+id/intent_two"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/purple_200"
+        android:gravity="center"
+        android:text="명시적 인텐트2" />
+
+    <TextView
+        android:id="@+id/intent_data"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/purple_200"
+        android:gravity="center"
+        android:text="명시적 인텐트 + data" />
+
+    <TextView
+        android:id="@+id/intent_result"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/purple_200"
+        android:gravity="center"
+        android:text="명시적 인텐트 + result" />
+
+    <TextView
+        android:id="@+id/intent_resultAPI"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/purple_200"
+        android:gravity="center"
+        android:text="명시적 인텐트 + ActivityResult API" />
+
+
+    <TextView
+        android:id="@+id/intent_ACTION"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/purple_200"
+        android:gravity="center"
+        android:text="명시적 인텐트 + ACTION" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
