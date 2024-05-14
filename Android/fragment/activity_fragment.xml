@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentActivity"
+    android:orientation="vertical">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:name="com.example.androidpractice.FragmentFirst"
+        android:id="@+id/fragment_first"
+        tools:layout="@layout/first_fragment"/>
+
+    <TextView
+        android:id="@+id/attach"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="attach"
+        android:gravity="center"
+        android:textSize="40sp"
+        android:background="@drawable/yellow_bg"/>
+
+    <TextView
+        android:id="@+id/detach"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="detach"
+        android:gravity="center"
+        android:textSize="40sp"
+        android:background="@drawable/yellow_bg"/>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/fragment_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/access_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:text="access fragment"
+        android:textSize="50sp"
+        android:gravity="center"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
