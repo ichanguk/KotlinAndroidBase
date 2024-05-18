@@ -23,5 +23,5 @@
 |[CH13.예외처리](https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/13.%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.kts)||[CH13.gravity](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/gravity.xml)|[CH13.add view](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/AddView)|
 |||[CH14.scroll view](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/scrollview.xml)|[CH14.과제](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/%EA%B3%BC%EC%A0%9C/hw7)|
 |||[CH15.resource](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/resource.xml)|[CH15.list view](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/ListView)|
-|||[CH16.drawable](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/drawable)|
+|||[CH16.drawable](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/drawable)|[CH16.recycler view](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/RecyclerView)|
 |||[CH17.과제](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/layout/hw4)|
