@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="#CDDC39"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/a_image"
+        android:layout_width="50dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/open_btn_bg" />
+
+    <TextView
+        android:id="@+id/a_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="bottom"
+        android:textSize="30sp" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
