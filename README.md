@@ -21,7 +21,7 @@
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/14.%EC%B6%9C%EB%A0%A5/%EC%B6%9C%EB%A0%A5.kts">CH14.출력</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_UI/XML.txt">CH01.XML</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/activity/MainActivity.kt">CH01.Activity</a></td>
-      <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/drawable">CH16.drawable</a></td>
+      <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/RecyclerView">CH16.recycler view</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/02.%EC%9E%90%EB%A3%8C%ED%98%95/%EC%9E%90%EB%A3%8C%ED%98%95.kts">CH02.자료형</a></td>
@@ -125,13 +125,13 @@
       <td></td>
       <td></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/drawable">CH16.drawable</a></td>
-      <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/RecyclerView">CH16.recycler view</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/layout/hw4">CH17.과제</a></td>
       <td></td>
       <td></td>
     </tr>
