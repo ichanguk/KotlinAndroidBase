@@ -24,4 +24,4 @@
 |||[CH14.scroll view](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/scrollview.xml)|[CH14.과제](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/%EA%B3%BC%EC%A0%9C/hw7)|
 |||[CH15.resource](https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/resource.xml)|[CH15.list view](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/ListView)|
 |||[CH16.drawable](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/drawable)|[CH16.recycler view](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/RecyclerView)|
-|||[CH17.과제](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/layout/hw4)|
+|||[CH17.과제](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/layout/hw4)|[CH17.과제](https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/%EA%B3%BC%EC%A0%9C/hw8)|
