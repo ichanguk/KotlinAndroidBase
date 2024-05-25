@@ -49,7 +49,7 @@
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/18.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%98%88%EC%A0%9C/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%98%88%EC%A0%9C_%EC%9E%85%EC%B6%9C%EA%B8%88.kts">CH18.클래스예제</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/linearlayout.xml">CH05.linear layout</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/ActivityStack">CH05.Activity Stack</a></td>
-      <td></td>
+      <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/room">CH20.room</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/06.%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.kts">CH06.흐름제어</a></td>
