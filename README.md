@@ -56,7 +56,7 @@
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/19.%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90.kts">CH19.접근제한자</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/Android/layout/hw1.xml">CH06.과제</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/%EA%B3%BC%EC%A0%9C/hw6">CH06.과제</a></td>
-      <td></td>
+      <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/Network">CH21.network</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/kotlin/07.%EA%B3%BC%EC%A0%9C">CH07.과제</a></td>
