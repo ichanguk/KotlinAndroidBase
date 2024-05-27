@@ -63,7 +63,7 @@
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/kotlin/20.%EC%83%81%EC%86%8D">CH20.상속</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/layout/relativelayout">CH07.relative layout</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/fragment">CH07.fragment</a></td>
-      <td></td>
+      <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/permission">CH22.permission</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/blob/main/kotlin/08.%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4.kts">CH08.배열</a></td>
