@@ -84,7 +84,7 @@
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/kotlin/23.%EA%B3%BC%EC%A0%9C">CH23.과제</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/layout/constraintlayout">CH10.constraint layout</a></td>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/ApplicationContext">CH10.Application Context</a></td>
-      <td></td>
+      <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/Android/%EC%8B%A4%EC%A0%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/youtube">실전프로젝트_유튜브</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ichanguk/KotlinAndroidBase/tree/main/kotlin/11.%EB%B0%98%EB%B3%B5%EB%AC%B8">CH11.반복문</a></td>
